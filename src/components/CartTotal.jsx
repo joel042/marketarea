@@ -21,7 +21,7 @@ function CartTotal() {
           <p>Shipping Fee</p>
           <p>
             {currency}
-            {delivery_fee}
+            {delivery_fee}.00
           </p>
         </div>
         <hr />
